@@ -5,7 +5,7 @@
 1. Identify Network Interfaces and IP Addresses
 ![alt text](<../images/1 net tools, ip config.png>)
 
-<br />
+
 ---
 
 2. Check Open Ports
@@ -13,7 +13,7 @@
 ![alt text](<../images/2 lsof.png>)
 
 ---
-<br />
+
 
 3. Analyze Network Connections
 ![alt text](<../images/3 netstat.png>)
