@@ -9,3 +9,7 @@ This Git repository is an archive of exercises about network security. Topics in
 ### Chapter 1: Ubuntu Home Lab
 
 - [Ubuntu Home Lab](./labs/ubuntu_home_lab.md)
+
+### Chapter 3: SNORT Lab
+
+- [SNORT Lab](./labs/SNORT.md)

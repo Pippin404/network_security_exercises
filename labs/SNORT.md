@@ -1,0 +1,1 @@
+SNORT is an open source network intrusion detection and prevention system created in 1998. Here in my Ubuntu home lab I will be installing and configuring SNORT in my VM. 
